@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @z0vs
+- 👀 I’m interested in CI/CD, Azure, DevOps and lots of stuff
+- 🌱 I’m currently learning to broaden my skills
+- 💞️ I’m looking to collaborate on open source projects!
+- 📫 How to reach me ...
